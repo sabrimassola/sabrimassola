@@ -36,25 +36,25 @@ Mi objetivo es desarrollarme profesionalmente en el área backend y formar parte
 
 ---
 
-## 📚 Actualmente aprendiendo
+## Actualmente aprendiendo
 
 - Java con Spring Boot (APIs REST)
 
 ---
 
-## 📌 Actualmente
+## Actualmente
 
-- 📚 Aprendiendo y mejorando mis habilidades en backend
-- 🧠 Profundizando en bases de datos y APIs
-- 🚀 Trabajando en proyectos personales
-
----
-
-## 📫 Contacto
-
-- 💼 LinkedIn: https://www.linkedin.com/in/sabrina-massola-00228a248/
-- 📧 Email: sabrinamassola00@gmail.com
+-  Aprendiendo y mejorando mis habilidades en backend
+-  Profundizando en bases de datos y APIs
+-  Trabajando en proyectos personales
 
 ---
 
-✨ Gracias por visitar mi perfil
+##  Contacto
+
+-  LinkedIn: https://www.linkedin.com/in/sabrina-massola-00228a248/
+-  Email: sabrinamassola00@gmail.com
+
+---
+
+ Gracias por visitar mi perfil
