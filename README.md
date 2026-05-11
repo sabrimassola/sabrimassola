@@ -53,7 +53,7 @@ Mi objetivo es desarrollarme profesionalmente en el área backend y formar parte
 ##  Contacto
 
 -  LinkedIn: https://www.linkedin.com/in/sabrina-massola-00228a248/
--  Email: sabrinamassola00@gmail.com
+-  Email: sabrina.lourdes.massola@gmail.com
 
 ---
 
